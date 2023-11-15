@@ -1,0 +1,10 @@
+total_expenses: 61
+rooms:
+  - name: "Первое помещение"
+    lamps: 10
+    days: 21
+    hours: 12
+  - name: "Второе помещение"
+    lamps: 20
+    days: 30
+    hours: 8
